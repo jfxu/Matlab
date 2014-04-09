@@ -1,7 +1,7 @@
 ### Matlab
 
 #### Test
-```python
+```sas
 a <- 1:5
 ```
 
