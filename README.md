@@ -1,8 +1,8 @@
 ### Matlab
 
 #### Test
-```r
-a <- 1:5
+```matlab
+a = 1:5
 ```
 
 ##### second
